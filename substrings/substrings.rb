@@ -11,3 +11,5 @@ def substrings(find, dictionary)
 end
 
 puts substrings("Howdy partner, sit down! How's it going?", dictionary)
+
+#5:15 jgilberts
