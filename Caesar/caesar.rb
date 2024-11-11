@@ -1,5 +1,6 @@
 #Take input
 #ASCII Letters: 65-90 97-122
+require rubocop
 
 def isalpha?(text)
     if text.between?(65,90) || text.between?(97,122)
